@@ -4,7 +4,7 @@ A tiny, playful **choose-your-own-adventure** command-line game written in plain
 You wake up, make choices, and discover different (sometimes messy) consequences — detention, grounded, or worse. Great for beginners * learning input, branching (if/elif/else) and small program flow.
 
 ## How to install
-1. [Copy and paste the code and run it if you haven't found the code already](https://github.com/WTCSC/life-decision-simulator-ReeceL3/blob/main/decision_tree.py)
+1. [Copy and paste the code and run it if you haven't found the code already](https://github.com/WTCSC/life-decision-simulator-ReeceL3.git)
 
 # Features
 
