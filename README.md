@@ -14,9 +14,9 @@ You wake up, make choices, and discover different (sometimes messy) consequences
 
 * Multiple branching endings depending on your choices.
 
-* Simple and easy to extend.
+* **Simple** and easy to extend.
 
-![](image-5.png)
+![](Image_folder/image-5.png)
 
 
 # How to run
@@ -29,7 +29,7 @@ You wake up, make choices, and discover different (sometimes messy) consequences
 
 * Follow the prompts (enter 1, 2, or anything else) and hit Enter.
 
-![](image-1.png)
+![](Image_folder/image-1.png)
 
 
 # Example playthrough
@@ -48,8 +48,8 @@ You wake up, make choices, and discover different (sometimes messy) consequences
 
 I will also put a flow chart below the examples!
 
-![](image.png)
-![](choose_adventure_flowchart_styled.png)
+![](Image_folder/image.png)
+![](Image_folder/choose_adventure_flowchart_styled.png)
 
 Here is another path you could possibly do^
 
@@ -69,7 +69,7 @@ Here is another path you could possibly do^
 
 * Add unit tests for each branch (for learning/testing).
 
-![](image-4.png)
+![](Image_folder/image-4.png)
 
 # Contributing
 
@@ -81,10 +81,6 @@ Refactor into functions and add a main loop.
 
 Add new branches and endings.
 
-![](image-3.png)
+![](Image_folder/image-3.png)
 
-# License
-
-This project is free to use — include your preferred license (e.g., MIT) in LICENSE if you publish it publicly.
-
-![](image-2.png)
+# 
